@@ -22,7 +22,7 @@ SOFTWARE.
 
 
 <grabber>
-<id>
+<id SSL="False">
 <urlname>timoviez</urlname>
 <asnew>2</asnew>
 <domain>.net</domain>
