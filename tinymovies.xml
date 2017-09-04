@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grabber>
-<id SSL="True">
+<id SSL="False">
 <urlname>timoviez</urlname>
 <asnew>2</asnew>
 <domain>.net</domain>
